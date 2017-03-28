@@ -10,8 +10,7 @@ First Task:
 
 Second Task:
 1. Given an input of "a()b,a()c,b()d,b()e"
-2. Assert that a connects to e
-3. Assert that given the route "a,b,d" the weight of a->c is 0 and a->b is 1
+2. Assert that given the route "a,b,d" the weight of a->c is 0 and a->b is 1
 3. Assert that given the route "a,c" the weight of
   - a->c is 0.5
   - a->b is 0.5
