@@ -4,9 +4,8 @@ A kata to explore building up a baysian graph from examples
 The tasks are as follows:
 First Task:
 1. Given the input "a(0.8)b,a(0.2)c"
-2. Assert that a connects to b and that a connects to c
-3. Assert that given an input of 0.9 node a returns node c
-4. Assert that given an input of 0.1 node a returns node b
+2. Assert that given an input of 0.9 node a returns node c
+3. Assert that given an input of 0.1 node a returns node b
 
 
 Second Task:
